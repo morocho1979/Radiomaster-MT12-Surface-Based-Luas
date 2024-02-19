@@ -162,6 +162,9 @@ end
 if wiin > 0 then 
 lcd.drawText (33,25, "IN")
 end
+if wiin == wiout then 
+lcd.drawText (33,25, "Dis")
+end
 end
 
 local function acc()
