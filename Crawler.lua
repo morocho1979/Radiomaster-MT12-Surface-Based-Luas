@@ -166,7 +166,7 @@ if wiin == wiout then
 lcd.drawText (33,25, "Dis")
 end
 end
-
+--cruise control
 local function acc()
 local accpos = getValue ("gvar2")
 if accpos == 100 then 
@@ -176,7 +176,7 @@ if accpos == -100 then
 lcd.drawText (60,25, "OFF")
 end
 end
-
+--Disable TH
 local function brk()
 local brkpos = getValue ("gvar5")
 if brkpos == 100 then 
