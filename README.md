@@ -19,12 +19,13 @@ Se crearon visualizaciones Basicas
 
 Descargar y Copiar en en la tarjeta SD en el directorio  /SCRIPTS/TELEMETRY 
 
-Ajustar en el codigo las GVARS y Inputs.
 
 
 Habilitar la LUA en el radio en  Display--> Screen --> Scripts 
 
 > [!TIP]
-> Si al momento de activar el Script no se visualiza renombrar el archivo con 4 caracteres .
+>Ajustar en el codigo las GVARS y Inputs que Utilices.
+
+
 
 
