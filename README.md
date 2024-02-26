@@ -3,7 +3,7 @@ Script creado para crawler.
 
 Me base en el codigo de https://github.com/mshagg/Radiomaster-MT12-Surface-Based-Luas 
 
- ### Pantalla de Telemetria 
+ ### Pantalla de Telemetria (Craw) 
 
 ![428331522_10228519421143200_3684097363586651597_n](https://github.com/morocho1979/Radiomaster-MT12-Surface-Based-Luas/assets/11615057/5bd8ac34-745a-4ff3-9e2e-3817586f51bf)
 
