@@ -37,7 +37,7 @@ Descargar y Copiar en en la tarjeta SD en el directorio  /SCRIPTS/TELEMETRY
 Habilitar la LUA en el radio en  Display--> Screen --> Scripts 
 
 > [!TIP]
->Ajustar en el codigo las GVARS y Inputs que Utilices.
+>Ajustar en el codigo las GVARS y Inputs, Channels segun tu Vehiculo que Utilices.
 
 
 
