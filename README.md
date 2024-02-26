@@ -9,6 +9,12 @@ Me base en el codigo de https://github.com/mshagg/Radiomaster-MT12-Surface-Based
 
 [Ver Funcionamiento](https://youtu.be/0V02OjmoTow)
 
+
+ ### Pantalla de Telemetria Bloqueador , Cruise Control , Winch (Crawb) 
+![CrawB](https://github.com/morocho1979/Radiomaster-MT12-Surface-Based-Luas/assets/11615057/3057020e-ecf7-4883-8285-58d7c0738608)
+
+
+
 > [!NOTE]
 >* El **BRK** indica cuando esta deshabilitado el **TH** via suiche **SD**.
 >
